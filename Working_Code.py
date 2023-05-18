@@ -19,7 +19,7 @@ from datetime import datetime
 # In[3]:
 
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="D:/GX_Final/snappy-way-381212-b30f7ab5ac58.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="/home/shreyashindurkar28/snappy-way-381212-b30f7ab5ac58.json"
 credentials = service_account.Credentials.from_service_account_file(os.environ["GOOGLE_APPLICATION_CREDENTIALS"])
 
 
