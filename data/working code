@@ -1,6 +1,0 @@
-col_list = ['prd_pln_id','fg_do_num','do_fg_ship_num','bu_cd','do_sts_cd','exe_pln_sts_cd',
-'dely_core_rspnsblty','wh_cd','exp_fctry_date','eta_wh','prcs_trgt_etd_wks',
-'prcs_trgt_exp_fctry_date_acqstn_rang','wh_alctn_date','init_alctn_date',
-'nw_itm_trgt_srch_flg','cont_itm_alctn_date','max_trnspt_lt',
-'fstst_trnspt_mthd_cd','fstst_eta_wh','opnty_loss_amt','gp_ttl_amt',
-'crnt_prc_ttl_amt','trnspt_mthd_alctn_trgt_flg','trnspt_mthd_asgned_flg','prty','rgst_dtime']
